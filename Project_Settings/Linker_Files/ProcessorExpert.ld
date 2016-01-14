@@ -4,13 +4,13 @@
 /*##                                   */
 /*##     Filename  : ProcessorExpert.ld */
 /*##                                   */
-/*##     Project   : RevC              */
+/*##     Project   : BLDC_KV10         */
 /*##                                   */
 /*##     Processor : MKV10Z32VFM7      */
 /*##                                   */
 /*##     Compiler  : GNU C Compiler    */
 /*##                                   */
-/*##     Date/Time : 2015-09-23, 22:37, # CodeGen: 0 */
+/*##     Date/Time : 2016-01-14, 16:14, # CodeGen: 64 */
 /*##                                   */
 /*##     Abstract  :                   */
 /*##                                   */
